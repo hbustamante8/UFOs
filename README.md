@@ -17,3 +17,11 @@ In the image below, in the "Enter Date" box, "1/11/2010" was input and for "Ente
 
 
 ##Summary
+
+### Drawback
+One drawback of this webpage is that if someone is not familiar with the data the table contians, the typing into filter options are less useful for them. A dropdown filter options bar would be better for first time users of this webpage.
+
+### Recoommendaations
+
+1. Make the filter boxes drop down options with all the avaiable values visible for the user to click on. This would make the webpage more user friendly and would be more useul for first time users of this webpage.
+2. The ability to filter on a date range would be very useful for the user and be a great additiioon. For example, the month of January 2010 could be filtered for. This would give all of the UFO sightings in that given month.
