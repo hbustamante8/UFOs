@@ -16,8 +16,8 @@ In the image below, "1/11/2010” was put into "Enter Date" box, and for "Enter 
 * ![image](https://user-images.githubusercontent.com/96553992/160299076-085aad5b-4b1a-4eb6-99f9-0b6c1c3f4a0b.png)
 
 
-##Summary 
 
+## Summary 
 ### Drawback
 One drawback of this webpage is that if someone is not familiar with the data the table contains, the typing value into filter options are less useful for them. A dropdown filter options bar would be better for first time users of this webpage.
 
